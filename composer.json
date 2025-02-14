@@ -12,11 +12,9 @@
     ],
     "require": {
         "php": ">=7.2.0",
-        "timber/timber": "1.*"
+        "timber/timber": "2.*"
     },
-    "require-dev": {
-        "kint-php/kint": "^3.2"
-    },
+
     "autoload": {
         "psr-4": {
             "Tendril\\": "src/"
