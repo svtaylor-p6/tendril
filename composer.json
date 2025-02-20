@@ -12,10 +12,7 @@
     ],
     "require": {
         "php": ">=7.2.0",
-        "timber/timber": "1.*"
-    },
-    "require-dev": {
-        "kint-php/kint": "^3.2"
+        "timber/timber": "1.24.1"
     },
     "autoload": {
         "psr-4": {
